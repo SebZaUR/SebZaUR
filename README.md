@@ -59,7 +59,11 @@
 
 ## 👨‍💻 Proyects
 
-[![FoodExpress]((https://github-readme-stats.vercel.app/api/pin/?username=SebZaUr&repo=FoodExpress&theme=draculao&hide_border=false))](https://github.com/SebZaUr/FoodExpress)
+[![Comandos](https://github-readme-stats.vercel.app/api/pin/?username=SebZaUr&repo=Comandos&theme=dracula&hide_border=false)](https://github.com/SebZaUr/Comandos)
+
+[![FoodExpress](https://github-readme-stats.vercel.app/api/pin/?username=SebZaUr&repo=FoodExpress&theme=dracula&hide_border=false)](https://github.com/SebZaUr/FoodExpress)
+
+
 
 <table width="100%" align="center">
   <tr>
