@@ -46,10 +46,10 @@
    <table style="border-collapse: collapse; width: 100%;">
         <tr>
             <td style="border: none; padding: 0; margin: 0;">
-                <img src="https://skillicons.dev/icons?i=angular,bash,bootstrap,css,git,html,java,markdown,mongodb,mysql,npm,py,spring&perline=5" alt="GitHub Contributions" style="width: 100%; height: auto;"/>
+                <img src="https://skillicons.dev/icons?i=angular,bash,bootstrap,css,git,html,java,markdown,mongodb,mysql,npm,py,spring&perline=7" alt="GitHub Contributions" style="width: 100%; height: auto;"/>
             </td>
             <td style="border: none; padding: 0; margin: 0;">
-                <img src="https://skillicons.dev/icons?i=azure,docker,eclipse,figma,github,githubactions,idea,kali,latex,linux,maven,postman,pycharm,vim,vscode,windows&perline=5" alt="GitHub Stats" style="width: 100%; height: auto; padding: 20px;"/>
+                <img src="https://skillicons.dev/icons?i=azure,docker,eclipse,figma,github,githubactions,idea,kali,latex,linux,maven,postman,pycharm,vim,vscode,windows&perline=7" alt="GitHub Stats" style="width: 100%; height: auto; padding: 20px;"/>
             </td>
         </tr>
   </table>
