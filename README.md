@@ -63,14 +63,18 @@
 
 [![FoodExpress](https://github-readme-stats.vercel.app/api/pin/?username=SebZaUr&repo=FoodExpress&theme=dracula&hide_border=false)](https://github.com/SebZaUr/FoodExpress)
 
+[![MundoFutbol](https://github-readme-stats.vercel.app/api/pin/?username=SebZaUr&repo=MundoFutbol&theme=dracula&hide_border=false)](https://github.com/SebZaUr/MundoFutbol)
 
+[![DaPoos](https://github-readme-stats.vercel.app/api/pin/?username=SebZaUr&repo=DaPoos&theme=dracula&hide_border=false)](https://github.com/SebZaUr/DaPoos)
+
+[![PoobStairs](https://github-readme-stats.vercel.app/api/pin/?username=SebZaUr&repo=PoobStairs&theme=dracula&hide_border=false)](https://github.com/SebZaUr/PoobStairs)
 
 <table width="100%" align="center">
   <tr>
     <td align="center">
       <h1>
         <a href="https://git.io/typing-svg">
-          <img src="https://readme-typing-svg.herokuapp.com/?lines=Fighting with this+👋;since 2019&center=true&size=30&color=00ff00" alt="Typing SVG" />
+          <img src="https://readme-typing-svg.herokuapp.com/?lines=Fighting+with+this+;since+2019&center=true&size=30&color=00ff00" alt="Typing SVG" />
         </a>
       </h1>
     </td>
