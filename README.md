@@ -76,7 +76,7 @@
 
 # How Reach Me
 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:sebassele2008@gmail.com) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sebastian-zamora-urrego-b777a9196/) [![Bitbucket](https://skillicons.dev/icons?i=bitbucket)](https://bitbucket.org/merakisemillero/workspace/overview/) [![Stackoverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/23654275/sebastian-zamora-urrego)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/sebzaur?igshid=MmU2YjMzNjRlOQ==) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sebastian-zamora-urrego-b777a9196/) [![Bitbucket](https://skillicons.dev/icons?i=bitbucket)](https://bitbucket.org/merakisemillero/workspace/overview/) [![Stackoverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/23654275/sebastian-zamora-urrego)
 
 <table>
     <td align="right">
