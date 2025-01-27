@@ -4,8 +4,7 @@
 
 ***
 
-* _My name is Sebastian Zamora Urrego, a colombian student of software Engieneer._
-* _I am currently last year studying at the Colombian School of Engieneering Julio Garavito._
+* _My name is Sebastian Zamora Urrego, a colombian software Engieneer._
 
 * _I am interested in learning about the world of software development and the different technologies that exist._
 
@@ -47,7 +46,7 @@
                 <img src="https://skillicons.dev/icons?i=angular,bash,bootstrap,css,git,html,java,markdown,mongodb,mysql,npm,py,spring&perline=7" alt="GitHub Contributions" style="width: 100%; height: auto;"/>
             </td>
             <td style="border: none; padding: 0; margin: 0;">
-                <img src="https://skillicons.dev/icons?i=azure,bitbucket,docker,eclipse,figma,github,githubactions,idea,kali,latex,linux,maven,postman,pycharm,vim,vscode,windows&perline=7" alt="GitHub Stats" style="width: 100%; height: auto; padding: 20px;"/>
+                <img src="https://skillicons.dev/icons?i=azure,bitbucket,docker,eclipse,figma,github,githubactions,idea,kali,latex,linux,maven,postman,pycharm,vim,vscode,webstorm,windows&perline=7" alt="GitHub Stats" style="width: 100%; height: auto; padding: 20px;"/>
             </td>
         </tr>
   </table>
@@ -77,7 +76,7 @@
 
 # How Reach Me
 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:sebassele2008@gmail.com) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sebastian-zamora-urrego-b777a9196/) [![Bitbucket](https://skillicons.dev/icons?i=bitbucket)](https://bitbucket.org/merakisemillero/workspace/overview/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:sebassele2008@gmail.com) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sebastian-zamora-urrego-b777a9196/) [![Bitbucket](https://skillicons.dev/icons?i=bitbucket)](https://bitbucket.org/merakisemillero/workspace/overview/) [![Stackoverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/23654275/sebastian-zamora-urrego)
 
 <table>
     <td align="right">
