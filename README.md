@@ -40,8 +40,6 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SebZaUr&theme=dracula&hide_border=false)
 
-## 💻 Tech and Tools
-
 <div aling="center">
    <table style="border-collapse: collapse; width: 100%;">
         <tr>
@@ -49,7 +47,7 @@
                 <img src="https://skillicons.dev/icons?i=angular,bash,bootstrap,css,git,html,java,markdown,mongodb,mysql,npm,py,spring&perline=7" alt="GitHub Contributions" style="width: 100%; height: auto;"/>
             </td>
             <td style="border: none; padding: 0; margin: 0;">
-                <img src="https://skillicons.dev/icons?i=azure,docker,eclipse,figma,github,githubactions,idea,kali,latex,linux,maven,postman,pycharm,vim,vscode,windows&perline=7" alt="GitHub Stats" style="width: 100%; height: auto; padding: 20px;"/>
+                <img src="https://skillicons.dev/icons?i=azure,bitbucket,docker,eclipse,figma,github,githubactions,idea,kali,latex,linux,maven,postman,pycharm,vim,vscode,windows&perline=7" alt="GitHub Stats" style="width: 100%; height: auto; padding: 20px;"/>
             </td>
         </tr>
   </table>
@@ -79,13 +77,16 @@
 
 # How Reach Me
 
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:sebassele2008@gmail.com) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sebastian-zamora-urrego-b777a9196/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:sebassele2008@gmail.com) [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sebastian-zamora-urrego-b777a9196/) [![Bitbucket](https://skillicons.dev/icons?i=bitbucket)](https://bitbucket.org/merakisemillero/workspace/overview/)
 
 <table>
     <td align="right">
       <a href="https://visitcount.itsvg.in">
         <img src="https://visitcount.itsvg.in/api?id=SebZaUr&icon=0&color=3" alt="Visit Count" />
       </a>
+    </td>
+  </tr>
+</table>
     </td>
   </tr>
 </table>
