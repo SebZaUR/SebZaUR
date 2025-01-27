@@ -18,7 +18,7 @@
    <table style="border-collapse: collapse; width: 100%;">
         <tr>
             <td style="border: none; padding: 0; margin: 0;">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=SebZaUr&theme=dracula&hide_border=false" alt="GitHub Contributions" style="width: 100%; height: auto;"/>
+                <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SebZaUr&theme=dracula" alt="GitHub Streak" /></a>
             </td>
             <td style="border: none; padding: 0; margin: 0;">
                 <img src="https://github-readme-stats.vercel.app/api?username=SebZaUr&theme=dracula&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" style="width: 100%; height: auto;"/>
